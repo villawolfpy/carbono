@@ -67,6 +67,7 @@ Crea un archivo `.env.local` en la raíz con, por ejemplo:
 
 # Red / RPC
 NEXT_PUBLIC_CHAIN_ID=11155111
+
 NEXT_PUBLIC_RPC_URL=https://sepolia.infura.io/v3/TU_INFURA_KEY
 
 # Contratos (Sepolia)
